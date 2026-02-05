@@ -39,4 +39,4 @@ To reproduce this analysis, you will need the following libraries:
 3. Open the Jupyter Notebook in the `notebooks/` directory.
 
 ---
-*Author: [Tu Nombre]* *Targeting precision medicine applications in oncology.*
+*Author: Miguel Rosell Hidalgo* *Targeting precision medicine applications in oncology.*
